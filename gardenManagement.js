@@ -1,5 +1,5 @@
-let temperature = 90
-let timeOfDay = "morning "
+const temperature = 90
+const timeOfDay = "morning "
 let soilMoisture = 30
 
 // Watering Control
